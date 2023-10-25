@@ -1,7 +1,7 @@
 {
-    "short_name": "Cine",
-    "name": "App de Cine dinamica",
-    "description": "Aplicación para manejo de cine",
+    "short_name": "Bob Esponja",
+    "name": "App de Bob Esponja dinamica",
+    "description": "Aplicación de Bob Esponja",
     "start_url": "index.html",
     "background_color": "##33FFFC",
     "theme_color": "##33FFFC",
