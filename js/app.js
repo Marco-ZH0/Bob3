@@ -90,7 +90,7 @@ nombrePersonajes.addEventListener(
         posterPersonaje.src = "img/1.png";
         posterPersonaje2.src = "img/principal.png";
         posterPersonaje.addEventListener("click", function() {
-          window.open("/personajes/BOB ESPONJA.html");
+          window.location.href = ("/personajes/BOB ESPONJA.html");
         });
         break;
       case "calamardo":
@@ -99,7 +99,7 @@ nombrePersonajes.addEventListener(
         posterPersonaje.src = "img/2.png";
         posterPersonaje2.src = "img/principal.png";
         posterPersonaje.addEventListener("click", function() {
-          window.open("/personajes/CALAMARDO.html");
+         window.location.href = ("/personajes/CALAMARDO.html");
         });
         break;
       case "patricio":
@@ -108,7 +108,7 @@ nombrePersonajes.addEventListener(
         posterPersonaje.src = "img/3.png";
         posterPersonaje2.src = "img/principal.png";
         posterPersonaje.addEventListener("click", function() {
-          window.open("/personajes/PATRICIO.html");
+          window.location.href = ("/personajes/PATRICIO.html");
         });
         break;
         case "arenita":
@@ -117,7 +117,7 @@ nombrePersonajes.addEventListener(
           posterPersonaje.src = "img/6.png";
           posterPersonaje2.src = "img/principal.png";
           posterPersonaje.addEventListener("click", function() {
-            window.open("/personajes/ARENITA.html");
+            window.location.href = ("/personajes/ARENITA.html");
           });
       break;
       case "gary":
@@ -126,7 +126,7 @@ nombrePersonajes.addEventListener(
       posterPersonaje.src = "img/9.png";
       posterPersonaje2.src = "img/principal.png";
       posterPersonaje.addEventListener("click", function() {
-        window.open("/personajes/GARY.html");
+        window.location.href = ("/personajes/GARY.html");
       });
       break;
       default:
@@ -149,105 +149,105 @@ nombrePersonajes.addEventListener(
               nombrev.innerHTML = "BOB ESPONJA BEBE";
               posterPersonaje2.src = "img/b1.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/BOB ESPONJA1.html");
+                window.location.href = ("/personajes/BOB ESPONJA1.html");
               });
               break;
           case "BOB ESPONJA TRISTE":
             nombrev.innerHTML = "BOB ESPONJA TRISTE";
               posterPersonaje2.src = "img/b2.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/BOB ESPONJA2.html");
+                window.location.href = ("/personajes/BOB ESPONJA2.html");
               });
               break;
           case "BOB ESPONJA CANTANTE":
             nombrev.innerHTML = "BOB ESPONJA CANTANTE";
               posterPersonaje2.src = "img/b3.webp";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/BOB ESPONJA3.html");
+                window.location.href = ("/personajes/BOB ESPONJA3.html");
               });
               break;
           case "CALAMARDO CANTANTE":
             nombrev.innerHTML = "CALAMARDO CANTANTE";
               posterPersonaje2.src = "img/C1.png";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/CALAMARDO1.html");
+                window.location.href = ("/personajes/CALAMARDO1.html");
               });
               break;
           case "CALAMARDO BAILANDO":
             nombrev.innerHTML = "CALAMARDO BAILANDO";
               posterPersonaje2.src = "img/c2.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/CALAMARDO2.html");
+                window.location.href = ("/personajes/CALAMARDO2.html");
               });
               break;
           case "CALAMARDO PINTANDO":
             nombrev.innerHTML = "CALAMARDO PINTANDO";
           posterPersonaje2.src = "img/c3.webp";
           posterPersonaje2.addEventListener("click", function() {
-            window.open("/personajes/CALAMARDO3.html");
+            window.location.href = ("/personajes/CALAMARDO3.html");
           });
           break;
           case "PATRICIO DOCTOR":
             nombrev.innerHTML = "PATRICIO DOCTOR";
               posterPersonaje2.src = "img/p1.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/PATRICIO1.html");
+                window.location.href = ("/personajes/PATRICIO1.html");
               });
               break;
           case "PATRICIO TRABAJANDO":
             nombrev.innerHTML = "PATRICIO TRABAJANDO";
               posterPersonaje2.src = "img/p2.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/PATRICIO2.html");
+                window.location.href = ("/personajes/PATRICIO2.html");
               });
               break;
           case "PATRICIO RIENDO":
             nombrev.innerHTML = "PATRICIO RIENDO";
           posterPersonaje2.src = "img/p3.jpg";
           posterPersonaje2.addEventListener("click", function() {
-            window.open("/personajes/PATRICIO3.html");
+            window.location.href = ("/personajes/PATRICIO3.html");
           });
           break;
           case "ARENITA KARATE":
             nombrev.innerHTML = "ARENITA KARATE";
               posterPersonaje2.src = "img/a1.webp";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/ARENITA1.html");
+                window.location.href = ("/personajes/ARENITA1.html");
               });
               break;
           case "ARENITA BAQUERA":
             nombrev.innerHTML = "ARENITA BAQUERA";
               posterPersonaje2.src = "img/a2.webp";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/ARENITA2.html");
+                window.location.href = ("/personajes/ARENITA2.html");
               });
               break;
           case "ARENITA SIN TRAJE":
             nombrev.innerHTML = "ARENITA SIN TRAJE";
               posterPersonaje2.src = "img/a3.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/ARENITA3.html");
+                window.location.href = ("/personajes/ARENITA3.html");
               });
               break;
           case "GARY SIN CAPARAZON":
             nombrev.innerHTML = "GARY SIN CAPARAZON";
               posterPersonaje2.src = "img/g1.png";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/GARY1.html");
+                window.location.href = ("/personajes/GARY1.html");
               });
               break;
           case "GARY COMIENDO":
             nombrev.innerHTML = "GARY COMIENDO";
               posterPersonaje2.src = "img/g2.jpg";
               posterPersonaje2.addEventListener("click", function() {
-                window.open("/personajes/GARY2.html");
+               window.location.href = ("/personajes/GARY2.html");
               });
               break;
           case "GARY ENAMORADO":
             nombrev.innerHTML = "GARY ENAMORADO";
             posterPersonaje2.src = "img/g3.jpg";
             posterPersonaje2.addEventListener("click", function() {
-              window.open("/personajes/GARY3.html");
+              window.location.href = ("/personajes/GARY3.html");
             });
             break;
               case "":
